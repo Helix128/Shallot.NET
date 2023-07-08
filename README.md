@@ -9,6 +9,16 @@ Shallot.NET includes the following packages:
 - [HTMLAgilityPack](https://github.com/zzzprojects/html-agility-pack/tree/master)
 - [HtmlAgilityPack.CssSelectors.NetCore](https://github.com/trenoncourt/HtmlAgilityPack.CssSelectors.NetCore)
 
+# How to use
+## Functions
+
+### GetCharactersByName
+
+Returns a ```List<Character>``` containing every character with the specified name.
+
+For instance,```Api.GetCharactersByName("Broly");``` would return every Broly character.
+
+### GetCharacterById
 
 ## License
 
