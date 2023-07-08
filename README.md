@@ -1,7 +1,10 @@
 # Shallot.NET
+![image](https://github.com/Helix128/Shallot.NET/assets/15237757/7c23d2b2-fbbd-4d24-86a1-66acbf480a99)
+
 (Unofficial) Dragon Ball Legends Data API
 
-C# port of [DBLegendsAPI](https://github.com/feijoes/DBlegendsAPI)
+C# port of [DBLegendsAPI](https://github.com/feijoes/DBlegendsAPI)![Uploading image.png…]()
+
 
 ## Dependencies
 Shallot.NET includes the following packages:
