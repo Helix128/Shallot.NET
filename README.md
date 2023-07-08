@@ -32,6 +32,8 @@ For instance, ```Api.GetCharacterById("DBL54-05U")``` returns [UL Gogeta Blue](h
 # TODO
 
 - Achieve functional parity between Shallot.NET and DBLegendsAPI
+- Optimize download system
+- Fix Unity compatibility
 
 # License
 
