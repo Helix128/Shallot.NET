@@ -3,7 +3,7 @@
 
 (Unofficial) Dragon Ball Legends Data API
 
-###C# version of [DBLegendsAPI](https://github.com/feijoes/DBlegendsAPI) by [feijoes](https://github.com/feijoes)
+### C# version of [DBLegendsAPI](https://github.com/feijoes/DBlegendsAPI) by [feijoes](https://github.com/feijoes)
 
 
 ## Dependencies
