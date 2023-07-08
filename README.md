@@ -33,7 +33,7 @@ For instance, ```Api.GetCharacterById("DBL54-05U")``` returns [UL Gogeta Blue](h
 
 Shallot.NET is released under the MIT License. Feel free to do anything you want with this!
 
-# External credits
+# Credits
 
 - [feijoes](https://github.com/feijoes): Original API in Rust
 - [dbz.space](https://legends.dbz.space/): Data
