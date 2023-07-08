@@ -1,7 +1,7 @@
 # Shallot.NET
 ![image](https://github.com/Helix128/Shallot.NET/assets/15237757/7c23d2b2-fbbd-4d24-86a1-66acbf480a99)
 
-(Unofficial) Dragon Ball Legends Data API
+(Unofficial) Dragon Ball Legends Character Data API
 
 ### C# port of [DBLegendsAPI](https://github.com/feijoes/DBlegendsAPI) by [feijoes](https://github.com/feijoes)
 
