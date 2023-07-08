@@ -29,7 +29,14 @@ Returns a ```Character``` with the specified ID.
 
 For instance, ```Api.GetCharacterById("DBL54-05U")``` returns [UL Gogeta Blue](https://legends.dbz.space/characters/508).
 
-## License
+# TODO
+
+- GetCharactersByRarity
+- GetCharactersByColor
+- GetCharactersByTags
+- Multiple request params
+
+# License
 
 Shallot.NET is released under the MIT License. Feel free to do anything you want with this!
 
