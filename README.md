@@ -12,13 +12,19 @@ Shallot.NET includes the following packages:
 # How to use
 ## Functions
 
-### GetCharactersByName
+### GetCharactersByName(string name)
 
 Returns a ```List<Character>``` containing every character with the specified name.
 
 For instance, ```Api.GetCharactersByName("Broly")``` returns a list containing every Broly character.
 
-### GetCharacterById
+```Api.GetCharactersByName("Legendary Super Saiyan Broly")``` returns a list only containing LSSJ Broly characters.
+
+### GetCharacterById(string id)
+
+Returns a ```Character``` with the specified ID.
+
+For instance, ```Api.GetCharacterById("DBL54-05U")``` returns [UL Gogeta Blue](https://legends.dbz.space/characters/508).
 
 ## License
 
