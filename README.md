@@ -13,6 +13,9 @@ Shallot.NET includes the following packages:
 - [HtmlAgilityPack.CssSelectors.NetCore](https://github.com/trenoncourt/HtmlAgilityPack.CssSelectors.NetCore)
 
 # How to use
+
+- Add ```using Shallot``` to the beginning of your script.
+
 ## Functions
 
 ### GetCharactersByName(string name)
