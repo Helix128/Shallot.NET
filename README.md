@@ -14,7 +14,7 @@ Shallot.NET includes the following packages:
 
 # How to use
 
-- Add ```using Shallot``` to the beginning of your script.
+- Add ```using Shallot;``` to the beginning of your script.
 
 ## Functions
 
