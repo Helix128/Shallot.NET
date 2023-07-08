@@ -3,7 +3,7 @@
 
 (Unofficial) Dragon Ball Legends Data API
 
-C# port of [DBLegendsAPI](https://github.com/feijoes/DBlegendsAPI)![Uploading image.png…]()
+C# port of [DBLegendsAPI](https://github.com/feijoes/DBlegendsAPI)
 
 
 ## Dependencies
