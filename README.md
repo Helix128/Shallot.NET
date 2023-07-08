@@ -16,7 +16,7 @@ Shallot.NET includes the following packages:
 
 Returns a ```List<Character>``` containing every character with the specified name.
 
-For instance, ```Api.GetCharactersByName("Broly")``` would return every Broly character.
+For instance, ```Api.GetCharactersByName("Broly")``` returns a list containing every Broly character.
 
 ### GetCharacterById
 
