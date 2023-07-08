@@ -5,9 +5,9 @@ C# port of [DBLegendsAPI](https://github.com/feijoes/DBlegendsAPI)
 
 ## Dependencies
 Shallot.NET includes the following packages:
-- Newtonsoft.JSON
-- HTMLAgilityPack
-- HtmlAgilityPack.CssSelectors.NetCore
+- [Newtonsoft.JSON](https://github.com/JamesNK/Newtonsoft.Json/tree/master)
+- [HTMLAgilityPack](https://github.com/zzzprojects/html-agility-pack/tree/master)
+- [HtmlAgilityPack.CssSelectors.NetCore](https://github.com/trenoncourt/HtmlAgilityPack.CssSelectors.NetCore)
 
 
 ## License
