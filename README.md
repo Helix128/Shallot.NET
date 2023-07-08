@@ -35,7 +35,6 @@ For instance, ```Api.GetCharacterById("DBL54-05U")``` returns [UL Gogeta Blue](h
 - GetCharactersByColor
 - GetCharactersByTags
 - Multiple request params
-- Ensure compatibility with Unity
 
 # License
 
